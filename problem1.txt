@@ -1,0 +1,6 @@
+truck
+banana
+truck
+dog
+cat
+cat
